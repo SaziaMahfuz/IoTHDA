@@ -4,7 +4,7 @@ The rapid advancement of the Internet of Things (IoT) has opened up significant 
 The COVID-19 pandemic further accelerated the adoption and availability of IoT systems, driven by an urgent demand for remote healthcare solutions. This global health crisis catalyzed a paradigm shift in healthcare delivery: from institutional monitoring to patient-centered care provided at home. Consequently, the volume of IoT-generated healthcare data has grown exponentially.
 Timely and effective analysts, visualization and exploration of complex multimodal healthcare data is essential for empowering individuals and healthcare providers with actionable insights and supporting smarter clinical decision-making. Emerging technologies in healthcare present new possibilities along with research challenges in complex multimodal and real time data analytics for personalized care and clinical decision support; exploring and advancing generative artificial intelligence (AI) for healthcare service provisioning; and designing efficient standardized IoT system architectures with integrating evolving technology including wearable sensors. Addressing these issues is crucial for unlocking the potential of IoT-driven healthcare.
 
-**Scope and Topics: **
+Scope and Topics: 
 We invite high-quality, original submissions to our workshop focused on Internet of Things (IoT), big data analytics, and intelligent systems for advancing healthcare. The aim is to foster interdisciplinary discussion and collaboration among researchers, practitioners, and industry professionals working at the intersection of healthcare, data science, and IoT technologies.
 This workshop will serve as a forum for presenting recent advances, challenges, and future directions in data-centric and IoT-enabled healthcare systems. We welcome novel contributions that address theoretical, methodological, computational, and applied aspects of IoT and data analytics in healthcare.
 Topics of interest include, but are not limited to:
@@ -26,6 +26,7 @@ Authors are requested to submit their papers electronically using the online con
 
 Publication:
 All accepted papers will be published by Elsevier Science in the open-access Procedia Computer Science series on-line. Procedia Computer Science is hosted by Elsevier on www.Elsevier.com and on Elsevier content platform ScienceDirect (www.sciencedirect.com) and will be freely available worldwide. All papers in Procedia will be indexed by Scopus (www.scopus.com) and by Thomson Reuters' Conference Proceeding Citation Index (http://thomsonreuters.com/conference-proceedings-citation-index/). All papers in Procedia will also be indexed by Scopus (www.scopus.com) and Engineering Village (Ei) (www.engineeringvillage.com). This includes EI Compendex (www.ei.org/compendex). Moreover, all accepted papers will be indexed in DBLP (http://dblp.uni-trier.de/). The papers will contain linked references, XML versions and citable DOI numbers. You will be able to provide a hyperlink to all delegates and direct your conference website visitors to your proceedings.
+
 Important Dates
 •	Paper Submission Deadline: June 30, 2025
 •	Notification of Acceptance: August 15, 2025
@@ -34,10 +35,10 @@ Important Dates
 
 Workshop Chairs:
 •	Farhana Zulkernine
-Professor
-School of Computing, Queen’s University
-Email: farhana.zulkernine@queensu.ca
+    Professor
+    School of Computing, Queen’s University
+    Email: farhana.zulkernine@queensu.ca
 •	Sazia Mahfuz
-Assistant Professor
-Jodrey School of Computer Science, Acadia University
-Email: sazia.mahfuz@acadiau.ca
+    Assistant Professor
+    Jodrey School of Computer Science, Acadia University
+    Email: sazia.mahfuz@acadiau.ca
